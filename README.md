@@ -1,8 +1,8 @@
 # Legacy Systems
 
-The LDP once had a database and sys admin named Ben Trofatter (2007-2015) before he moved onto work for Google.  He originally setup and maintained a number of machines for the LDP, SILC, and the Goldin-Meadow Lab.
+The LDP once had a database and sys admin named Ben (2007-2015).  He originally setup and maintained a number of machines for the LDP, SILC, and Goldin-Meadow Lab.
 
-Below is a list of systems Ben had setup and maintained.
+The [Research Computing Center](https://github.com/rcc-uchicago) now provides file system storage and other services for the LDP (See [`rcc-uchicago/ldp`](https://github.com/rcc-uchicago/ldp)), but some of these legacy systems are still in use, even though they're no longer actively maintained.
 
 
 ## LDP Web Server
@@ -17,7 +17,7 @@ Hosts the LDP filemaker server (`ldpdb.spc.uchicago.edu`)
 
 ## LDP File Server
 
-Hosts the LDP file server (`ldpfs.spc.uchicago.edu`).  The file server is accessible via SAMBA on the psych building's subnet.
+Hosts the LDP file server (`ldpfs.spc.uchicago.edu`), accessible via SAMBA on the psych building's subnet.
 
 
 ## LDP FS Backup
@@ -29,7 +29,7 @@ As of March 2015 this machine is now located in Susan Goldin-Meadow's new office
 
 ## SGM Lab Server
 
-This is the Goldin-Meadow Lab's file server (`sgmlab.spc.uchicago.edu`).  It's also accessible via SAMBA on the psych building's subnet.
+This is the Goldin-Meadow Lab's file server (`sgmlab.spc.uchicago.edu`), also accessible via SAMBA on the psych building's subnet.
 
 
 ## SGM Lab Backup
