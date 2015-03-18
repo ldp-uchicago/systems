@@ -12,7 +12,7 @@ Hosts the LDP portal site (`ldp.uchicago.edu`).
 
 ## LDP FileMaker Server
 
-Hosts the LDP filemaker server (`ldpdb.spc.uchicago.edu`)
+Hosts the LDP filemaker server (`ldpdb.spc.uchicago.edu`).
 
 
 ## LDP File Server
